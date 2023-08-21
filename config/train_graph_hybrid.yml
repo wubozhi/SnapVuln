@@ -1,0 +1,68 @@
+# Data
+trainset: 'train.jsonl.gz'
+devset: 'valid.jsonl.gz'
+testset: 'my_test.jsonl.gz'
+saved_vocab_file: './vocabs/vocab.pkl'
+out_dir:  './output/model'
+result: 'bo'
+slice_type: 'bo_slices'
+
+max_slices_num: 16
+
+pretrained_word_embed_file:
+pretrained:
+
+# Preprocessing
+top_word_vocab: 150000
+min_word_freq: 3
+# Model architecture
+model_name: 'Graph2Vul'
+IsCFGDFG: False
+
+
+# Embedding
+word_embed_dim: 128
+fix_word_embed: False
+edge_embed_dim: 32
+
+
+graph_hidden_size: 128
+enc_hidden_size: 128
+rnn_type: 'lstm'
+enc_bidi: True
+num_enc_rnn_layers: 1
+
+# Regularization
+word_dropout: 0.3
+enc_rnn_dropout: 0.3
+
+
+# Graph neural networks
+graph_type: 'static'             # static, dynamic, hybrid
+graph_hops: 3                     # 3 is optimal
+message_function: 'no_edge'       # edge_pair, no_edge
+node_initialize_type: 'sum'       # sum,  mean
+head_num: 1
+dynamic_topk: 5
+
+# Training
+optimizer: 'adam'
+learning_rate: 0.001
+grad_clipping: 10
+grad_accumulated_steps: 1
+early_stop_metric: 'Acc'     # Acc, F1
+
+random_seed: 2022
+shuffle: True # Whether to shuffle the examples during training
+max_epochs: 1000
+batch_size: 16 # No. of dialogs per batch
+patience: 10
+verbose: 1000 # Print every X batches
+
+# Testing
+test_batch_size: 16
+save_params: True # Whether to save params
+logging: True # Turn it off for Codalab
+# Device
+no_cuda: False
+cuda_id: 0
