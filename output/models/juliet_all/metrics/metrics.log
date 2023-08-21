@@ -1,0 +1,174 @@
+
+>>> Train Epoch: [1 / 1000]
+[train-1] step: [1000 / 1632] | loss = 0.23521
+Training Epoch 1 -- Loss: 0.19481 | ACC = 0.90125 | NEG_PRE = 0.90612 | NEG_REC = 0.89530 | NEG_F1 = 0.90068 | POS_PRE = 0.89649 | POS_REC = 0.90720 | POS_F1 = 0.90181 | PRC_AUC = 0.97659
+
+>>> Dev Epoch: [1 / 1000]
+Validation Epoch 1 -- Loss: 0.09707 | ACC = 0.94424 | NEG_PRE = 0.97571 | NEG_REC = 0.91110 | NEG_F1 = 0.94230 | POS_PRE = 0.91671 | POS_REC = 0.97734 | POS_F1 = 0.94606 | PRC_AUC = 0.99294
+!!! Updated: 
+ACC = 0.94424
+NEG_PRE = 0.97571
+NEG_REC = 0.91110
+NEG_F1 = 0.94230
+POS_PRE = 0.91671
+POS_REC = 0.97734
+POS_F1 = 0.94606
+PRC_AUC = 0.99294
+
+
+>>> Train Epoch: [2 / 1000]
+[train-2] step: [1000 / 1632] | loss = 0.09968
+Training Epoch 2 -- Loss: 0.09396 | ACC = 0.94756 | NEG_PRE = 0.95197 | NEG_REC = 0.94271 | NEG_F1 = 0.94732 | POS_PRE = 0.94323 | POS_REC = 0.95241 | POS_F1 = 0.94780 | PRC_AUC = 0.99397
+
+>>> Dev Epoch: [2 / 1000]
+Validation Epoch 2 -- Loss: 0.08547 | ACC = 0.94975 | NEG_PRE = 0.91046 | NEG_REC = 0.99755 | NEG_F1 = 0.95202 | POS_PRE = 0.99729 | POS_REC = 0.90202 | POS_F1 = 0.94727 | PRC_AUC = 0.99516
+!!! Updated: 
+ACC = 0.94975
+NEG_PRE = 0.91046
+NEG_REC = 0.99755
+NEG_F1 = 0.95202
+POS_PRE = 0.99729
+POS_REC = 0.90202
+POS_F1 = 0.94727
+PRC_AUC = 0.99516
+
+
+>>> Train Epoch: [3 / 1000]
+[train-3] step: [1000 / 1632] | loss = 0.07206
+Training Epoch 3 -- Loss: 0.07790 | ACC = 0.95097 | NEG_PRE = 0.95341 | NEG_REC = 0.94830 | NEG_F1 = 0.95085 | POS_PRE = 0.94855 | POS_REC = 0.95364 | POS_F1 = 0.95109 | PRC_AUC = 0.99516
+
+>>> Dev Epoch: [3 / 1000]
+Validation Epoch 3 -- Loss: 0.07550 | ACC = 0.95159 | NEG_PRE = 0.99067 | NEG_REC = 0.91171 | NEG_F1 = 0.94955 | POS_PRE = 0.91832 | POS_REC = 0.99143 | POS_F1 = 0.95347 | PRC_AUC = 0.99479
+!!! Updated: 
+ACC = 0.95159
+NEG_PRE = 0.99067
+NEG_REC = 0.91171
+NEG_F1 = 0.94955
+POS_PRE = 0.91832
+POS_REC = 0.99143
+POS_F1 = 0.95347
+PRC_AUC = 0.99479
+
+
+>>> Train Epoch: [4 / 1000]
+[train-4] step: [1000 / 1632] | loss = 0.07392
+Training Epoch 4 -- Loss: 0.07467 | ACC = 0.95239 | NEG_PRE = 0.95382 | NEG_REC = 0.95083 | NEG_F1 = 0.95232 | POS_PRE = 0.95096 | POS_REC = 0.95395 | POS_F1 = 0.95245 | PRC_AUC = 0.99542
+
+>>> Dev Epoch: [4 / 1000]
+Validation Epoch 4 -- Loss: 0.07107 | ACC = 0.95129 | NEG_PRE = 0.91163 | NEG_REC = 0.99939 | NEG_F1 = 0.95350 | POS_PRE = 0.99932 | POS_REC = 0.90325 | POS_F1 = 0.94886 | PRC_AUC = 0.99538
+
+>>> Train Epoch: [5 / 1000]
+[train-5] step: [1000 / 1632] | loss = 0.06914
+Training Epoch 5 -- Loss: 0.06965 | ACC = 0.95365 | NEG_PRE = 0.95241 | NEG_REC = 0.95504 | NEG_F1 = 0.95372 | POS_PRE = 0.95489 | POS_REC = 0.95226 | POS_F1 = 0.95358 | PRC_AUC = 0.99560
+
+>>> Dev Epoch: [5 / 1000]
+Validation Epoch 5 -- Loss: 0.06708 | ACC = 0.95374 | NEG_PRE = 0.99731 | NEG_REC = 0.90987 | NEG_F1 = 0.95159 | POS_PRE = 0.91723 | POS_REC = 0.99755 | POS_F1 = 0.95571 | PRC_AUC = 0.99540
+!!! Updated: 
+ACC = 0.95374
+NEG_PRE = 0.99731
+NEG_REC = 0.90987
+NEG_F1 = 0.95159
+POS_PRE = 0.91723
+POS_REC = 0.99755
+POS_F1 = 0.95571
+PRC_AUC = 0.99540
+
+
+>>> Train Epoch: [6 / 1000]
+[train-6] step: [1000 / 1632] | loss = 0.06733
+Training Epoch 6 -- Loss: 0.06807 | ACC = 0.95503 | NEG_PRE = 0.95806 | NEG_REC = 0.95175 | NEG_F1 = 0.95489 | POS_PRE = 0.95204 | POS_REC = 0.95831 | POS_F1 = 0.95517 | PRC_AUC = 0.99588
+
+>>> Dev Epoch: [6 / 1000]
+Validation Epoch 6 -- Loss: 0.07036 | ACC = 0.95006 | NEG_PRE = 0.93278 | NEG_REC = 0.96996 | NEG_F1 = 0.95101 | POS_PRE = 0.96875 | POS_REC = 0.93019 | POS_F1 = 0.94908 | PRC_AUC = 0.99550
+
+>>> Train Epoch: [7 / 1000]
+[train-7] step: [1000 / 1632] | loss = 0.06460
+Training Epoch 7 -- Loss: 0.06724 | ACC = 0.95484 | NEG_PRE = 0.95170 | NEG_REC = 0.95833 | NEG_F1 = 0.95501 | POS_PRE = 0.95802 | POS_REC = 0.95134 | POS_F1 = 0.95467 | PRC_AUC = 0.99596
+
+>>> Dev Epoch: [7 / 1000]
+Validation Epoch 7 -- Loss: 0.06649 | ACC = 0.95558 | NEG_PRE = 1.00000 | NEG_REC = 0.91110 | NEG_F1 = 0.95348 | POS_PRE = 0.91845 | POS_REC = 1.00000 | POS_F1 = 0.95749 | PRC_AUC = 0.99577
+!!! Updated: 
+ACC = 0.95558
+NEG_PRE = 1.00000
+NEG_REC = 0.91110
+NEG_F1 = 0.95348
+POS_PRE = 0.91845
+POS_REC = 1.00000
+POS_F1 = 0.95749
+PRC_AUC = 0.99577
+
+
+>>> Train Epoch: [8 / 1000]
+[train-8] step: [1000 / 1632] | loss = 0.05925
+Training Epoch 8 -- Loss: 0.06754 | ACC = 0.95331 | NEG_PRE = 0.95252 | NEG_REC = 0.95420 | NEG_F1 = 0.95336 | POS_PRE = 0.95410 | POS_REC = 0.95241 | POS_F1 = 0.95325 | PRC_AUC = 0.99571
+
+>>> Dev Epoch: [8 / 1000]
+Validation Epoch 8 -- Loss: 0.06737 | ACC = 0.95435 | NEG_PRE = 0.99933 | NEG_REC = 0.90926 | NEG_F1 = 0.95217 | POS_PRE = 0.91685 | POS_REC = 0.99939 | POS_F1 = 0.95634 | PRC_AUC = 0.99534
+
+>>> Train Epoch: [9 / 1000]
+[train-9] step: [1000 / 1632] | loss = 0.06430
+Training Epoch 9 -- Loss: 0.06724 | ACC = 0.95342 | NEG_PRE = 0.95177 | NEG_REC = 0.95527 | NEG_F1 = 0.95352 | POS_PRE = 0.95508 | POS_REC = 0.95157 | POS_F1 = 0.95332 | PRC_AUC = 0.99582
+
+>>> Dev Epoch: [9 / 1000]
+Validation Epoch 9 -- Loss: 0.06714 | ACC = 0.95466 | NEG_PRE = 0.95131 | NEG_REC = 0.95831 | NEG_F1 = 0.95480 | POS_PRE = 0.95805 | POS_REC = 0.95101 | POS_F1 = 0.95452 | PRC_AUC = 0.99560
+
+>>> Train Epoch: [10 / 1000]
+[train-10] step: [1000 / 1632] | loss = 0.06341
+Training Epoch 10 -- Loss: 0.06369 | ACC = 0.95622 | NEG_PRE = 0.95156 | NEG_REC = 0.96140 | NEG_F1 = 0.95645 | POS_PRE = 0.96098 | POS_REC = 0.95103 | POS_F1 = 0.95598 | PRC_AUC = 0.99607
+
+>>> Dev Epoch: [10 / 1000]
+Validation Epoch 10 -- Loss: 0.06462 | ACC = 0.95558 | NEG_PRE = 1.00000 | NEG_REC = 0.91110 | NEG_F1 = 0.95348 | POS_PRE = 0.91845 | POS_REC = 1.00000 | POS_F1 = 0.95749 | PRC_AUC = 0.99532
+
+>>> Train Epoch: [11 / 1000]
+[train-11] step: [1000 / 1632] | loss = 0.05966
+Training Epoch 11 -- Loss: 0.06256 | ACC = 0.95610 | NEG_PRE = 0.95493 | NEG_REC = 0.95741 | NEG_F1 = 0.95617 | POS_PRE = 0.95728 | POS_REC = 0.95479 | POS_F1 = 0.95603 | PRC_AUC = 0.99613
+
+>>> Dev Epoch: [11 / 1000]
+Validation Epoch 11 -- Loss: 0.06380 | ACC = 0.95006 | NEG_PRE = 0.91847 | NEG_REC = 0.98774 | NEG_F1 = 0.95185 | POS_PRE = 0.98675 | POS_REC = 0.91243 | POS_F1 = 0.94814 | PRC_AUC = 0.99529
+
+>>> Train Epoch: [12 / 1000]
+[train-12] step: [1000 / 1632] | loss = 0.06099
+Training Epoch 12 -- Loss: 0.06261 | ACC = 0.95545 | NEG_PRE = 0.94380 | NEG_REC = 0.96860 | NEG_F1 = 0.95604 | POS_PRE = 0.96773 | POS_REC = 0.94230 | POS_F1 = 0.95485 | PRC_AUC = 0.99605
+
+>>> Dev Epoch: [12 / 1000]
+Validation Epoch 12 -- Loss: 0.06363 | ACC = 0.95312 | NEG_PRE = 0.91610 | NEG_REC = 0.99755 | NEG_F1 = 0.95509 | POS_PRE = 0.99731 | POS_REC = 0.90876 | POS_F1 = 0.95098 | PRC_AUC = 0.99548
+
+>>> Train Epoch: [13 / 1000]
+[train-13] step: [1000 / 1632] | loss = 0.06113
+Training Epoch 13 -- Loss: 0.06235 | ACC = 0.95679 | NEG_PRE = 0.95659 | NEG_REC = 0.95703 | NEG_F1 = 0.95681 | POS_PRE = 0.95699 | POS_REC = 0.95655 | POS_F1 = 0.95677 | PRC_AUC = 0.99627
+
+>>> Dev Epoch: [13 / 1000]
+Validation Epoch 13 -- Loss: 0.06459 | ACC = 0.95312 | NEG_PRE = 0.91424 | NEG_REC = 1.00000 | NEG_F1 = 0.95520 | POS_PRE = 1.00000 | POS_REC = 0.90631 | POS_F1 = 0.95085 | PRC_AUC = 0.99543
+
+>>> Train Epoch: [14 / 1000]
+[train-14] step: [1000 / 1632] | loss = 0.06031
+Training Epoch 14 -- Loss: 0.06198 | ACC = 0.95694 | NEG_PRE = 0.93848 | NEG_REC = 0.97802 | NEG_F1 = 0.95784 | POS_PRE = 0.97704 | POS_REC = 0.93586 | POS_F1 = 0.95601 | PRC_AUC = 0.99621
+
+>>> Dev Epoch: [14 / 1000]
+Validation Epoch 14 -- Loss: 0.06369 | ACC = 0.95343 | NEG_PRE = 0.98492 | NEG_REC = 0.92091 | NEG_F1 = 0.95184 | POS_PRE = 0.92582 | POS_REC = 0.98592 | POS_F1 = 0.95492 | PRC_AUC = 0.99536
+
+>>> Train Epoch: [15 / 1000]
+[train-15] step: [1000 / 1632] | loss = 0.06357
+Training Epoch 15 -- Loss: 0.06170 | ACC = 0.95737 | NEG_PRE = 0.94909 | NEG_REC = 0.96661 | NEG_F1 = 0.95777 | POS_PRE = 0.96596 | POS_REC = 0.94812 | POS_F1 = 0.95696 | PRC_AUC = 0.99640
+
+>>> Dev Epoch: [15 / 1000]
+Validation Epoch 15 -- Loss: 0.06389 | ACC = 0.95343 | NEG_PRE = 0.95733 | NEG_REC = 0.94911 | NEG_F1 = 0.95320 | POS_PRE = 0.94961 | POS_REC = 0.95775 | POS_F1 = 0.95366 | PRC_AUC = 0.99554
+
+>>> Train Epoch: [16 / 1000]
+[train-16] step: [1000 / 1632] | loss = 0.06459
+Training Epoch 16 -- Loss: 0.06156 | ACC = 0.95771 | NEG_PRE = 0.95424 | NEG_REC = 0.96155 | NEG_F1 = 0.95788 | POS_PRE = 0.96124 | POS_REC = 0.95387 | POS_F1 = 0.95754 | PRC_AUC = 0.99640
+
+>>> Dev Epoch: [16 / 1000]
+Validation Epoch 16 -- Loss: 0.06341 | ACC = 0.95312 | NEG_PRE = 0.98364 | NEG_REC = 0.92152 | NEG_F1 = 0.95157 | POS_PRE = 0.92627 | POS_REC = 0.98469 | POS_F1 = 0.95459 | PRC_AUC = 0.99550
+
+>>> Train Epoch: [17 / 1000]
+[train-17] step: [1000 / 1632] | loss = 0.06151
+Training Epoch 17 -- Loss: 0.06132 | ACC = 0.95614 | NEG_PRE = 0.95348 | NEG_REC = 0.95910 | NEG_F1 = 0.95628 | POS_PRE = 0.95884 | POS_REC = 0.95318 | POS_F1 = 0.95600 | PRC_AUC = 0.99619
+
+>>> Dev Epoch: [17 / 1000]
+Validation Epoch 17 -- Loss: 0.06293 | ACC = 0.95159 | NEG_PRE = 0.97547 | NEG_REC = 0.92643 | NEG_F1 = 0.95031 | POS_PRE = 0.93003 | POS_REC = 0.97673 | POS_F1 = 0.95281 | PRC_AUC = 0.99547
+<<<<<<<<<<<<<<<<< Test >>>>>>>>>>>>>>>>>-- Loss: 0.00000 | ACC = 0.95098 | NEG_PRE = 0.99932 | NEG_REC = 0.90257 | NEG_F1 = 0.94849 | POS_PRE = 0.91117 | POS_REC = 0.99939 | POS_F1 = 0.95324 | PRC_AUC = 0.99581
+<<<<<<<<<<<<<<<<< Test >>>>>>>>>>>>>>>>>-- Loss: 0.00000 | ACC = 0.95098 | NEG_PRE = 0.99932 | NEG_REC = 0.90257 | NEG_F1 = 0.94849 | POS_PRE = 0.91117 | POS_REC = 0.99939 | POS_F1 = 0.95324 | PRC_AUC = 0.99581
+<<<<<<<<<<<<<<<<< Test >>>>>>>>>>>>>>>>>-- Loss: 0.00000 | ACC = 0.99970 | NEG_PRE = 0.99939 | NEG_REC = 1.00000 | NEG_F1 = 0.99970 | POS_PRE = 1.00000 | POS_REC = 0.99939 | POS_F1 = 0.99970 | PRC_AUC = 1.00000
+<<<<<<<<<<<<<<<<< Test >>>>>>>>>>>>>>>>>-- Loss: 0.00000 | ACC = 0.99970 | NEG_PRE = 0.99939 | NEG_REC = 1.00000 | NEG_F1 = 0.99970 | POS_PRE = 1.00000 | POS_REC = 0.99939 | POS_F1 = 0.99970 | PRC_AUC = 1.00000
+<<<<<<<<<<<<<<<<< Test >>>>>>>>>>>>>>>>>-- Loss: 0.00000 | ACC = 0.95098 | NEG_PRE = 0.99932 | NEG_REC = 0.90257 | NEG_F1 = 0.94849 | POS_PRE = 0.91117 | POS_REC = 0.99939 | POS_F1 = 0.95324 | PRC_AUC = 0.99581
